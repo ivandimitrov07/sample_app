@@ -1,0 +1,3 @@
+== Sample Rails App 
+
+Built using http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
